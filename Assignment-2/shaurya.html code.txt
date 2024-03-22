@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./home-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Spartan:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="home-page">
+      <section class="vector-parent">
+        <img class="frame-child" alt="" src="./public/rectangle-242.svg" />
+
+        <img
+          class="frame-item"
+          loading="lazy"
+          alt=""
+          src="./public/rectangle-247@2x.png"
+        />
+
+        <div class="frame-inner"></div>
+      </section>
+      <img class="home-page-child" alt="" src="./public/group-2614.svg" />
+
+      <footer class="vector-group">
+        <img
+          class="rectangle-icon"
+          loading="lazy"
+          alt=""
+          src="./public/rectangle-206.svg"
+        />
+
+        <div class="farm-investments-heading"></div>
+      </footer>
+      <div class="home-page-inner">
+        <div class="home-parent">
+          <b class="home">Home</b>
+          <div class="frame-parent">
+            <div class="investment-area-header-wrapper">
+              <div class="investment-area-header">
+                <b class="about-us">About Us</b>
+                <b class="contact-us">Contact Us</b>
+              </div>
+            </div>
+            <b class="sign-in">Sign In</b>
+          </div>
+          <img
+            class="group-icon"
+            loading="lazy"
+            alt=""
+            src="./public/group-2616.svg"
+          />
+        </div>
+      </div>
+      <section class="cultifymark-logo">
+        <div class="rectangle-parent">
+          <div class="rectangle-div"></div>
+          <h1 class="invest-in-farms-container">
+            <span class="invest-in-farms-container1">
+              <span>Invest in Farms with Ease, </span>
+              <span class="seamlessly">Seamlessly</span>
+              <span> Connecting You to Agriculture.</span>
+            </span>
+          </h1>
+          <button class="how-it-works-heading">
+            <div class="get-started">Get Started</div>
+          </button>
+          <div class="invest-confidently-in">
+            Invest confidently in the agriculture industry. Explore our
+            platform, find exciting farm investment opportunities, and enjoy the
+            benefits of a thriving sector. Start growing your wealth through
+            agricultural investments today.
+          </div>
+          <div class="ellipse-parent">
+            <div class="ellipse-div"></div>
+            <img
+              class="star-icon"
+              loading="lazy"
+              alt=""
+              src="./public/star-2.svg"
+            />
+
+            <img
+              class="istockphoto-1201456831-640x640-icon"
+              alt=""
+              src="./public/istockphoto1201456831640x640-1@2x.png"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="phone-number-instance">
+        <div class="frame-group">
+          <div class="about-us-wrapper">
+            <b class="about-us1">About Us</b>
+          </div>
+          <div class="istockphoto-887287264-612x612-parent">
+            <img
+              class="istockphoto-887287264-612x612-icon"
+              loading="lazy"
+              alt=""
+              src="./public/istockphoto887287264612x612-1@2x.png"
+            />
+
+            <div class="welcome-to-our-farm-investment-wrapper">
+              <div class="welcome-to-our">
+                Welcome to our farm investment platform, the easiest and fastest
+                way to connect with the world of agriculture. At GardenPlot, we
+                are dedicated to simplifying the investment process, providing
+                you with a seamless experience that unlocks the lucrative
+                opportunities found within the farming industry. Our
+                user-friendly platform empowers you to explore and invest in
+                farms with ease, allowing you to participate in the growth of
+                this vital sector. Join us today and embark on a journey that
+                combines simplicity, speed, and the promise of prosperous farm
+                investments.
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <img
+        class="cultify-high-resolution-logo-c-icon"
+        loading="lazy"
+        alt=""
+        src="./public/cultifyhighresolutionlogocolorontransparentbackground-1-3@2x.png"
+      />
+
+      <section class="copyright-year-instance">
+        <div class="copyright-year-instance-inner">
+          <div class="frame-container">
+            <div class="why-choose-gardenplot-wrapper">
+              <b class="why-choose-gardenplot">Why choose GardenPlot</b>
+            </div>
+            <div class="frame-div">
+              <div class="rectangle-group">
+                <div class="frame-child1"></div>
+                <div class="frame-wrapper">
+                  <button class="rectangle-container">
+                    <div class="frame-child2"></div>
+                    <img
+                      class="frame-child3"
+                      alt=""
+                      src="./public/rectangle-257@2x.png"
+                    />
+                  </button>
+                </div>
+                <div class="speedy-explorer-parent">
+                  <div class="speedy-explorer">
+                    <b class="simplicity">SIMPLICITY</b>
+                  </div>
+                  <div class="easily-explore-our">
+                    Easily explore our intuitive platform and tools for a
+                    stress-free farm investment journey.
+                  </div>
+                </div>
+              </div>
+              <div class="rectangle-parent1">
+                <div class="frame-child4"></div>
+                <div class="frame-wrapper1">
+                  <button class="group-button">
+                    <div class="rectangle-parent2">
+                      <div class="frame-child5"></div>
+                      <img
+                        class="frame-child6"
+                        alt=""
+                        src="./public/rectangle-253@2x.png"
+                      />
+                    </div>
+                  </button>
+                </div>
+                <div class="speed-wrapper">
+                  <b class="speed">SPEED</b>
+                </div>
+                <div class="explore-and-select-promising-f-parent">
+                  <div class="explore-and-select">
+                    Explore and select promising farm projects quickly with our
+                    streamlined investment process.
+                  </div>
+                  <div class="explore-and-select1">
+                    Explore and select promising farm projects quickly with our
+                    streamlined investment process.
+                  </div>
+                </div>
+              </div>
+              <div class="vector-container">
+                <img
+                  class="frame-child7"
+                  alt=""
+                  src="./public/rectangle-244.svg"
+                />
+
+                <div class="frame-wrapper2">
+                  <div class="group-div">
+                    <div class="frame-child8"></div>
+                    <img
+                      class="frame-child9"
+                      loading="lazy"
+                      alt=""
+                      src="./public/rectangle-254@2x.png"
+                    />
+                  </div>
+                </div>
+                <div class="frame-parent1">
+                  <div class="transparency-wrapper">
+                    <b class="transparency">TRANSPARENCY</b>
+                  </div>
+                  <div class="access-detailed-farm-container">
+                    <b> </b>
+                    <span
+                      >Access detailed farm profiles, projected returns, and
+                      associated risks to make informed decisions</span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="welcome-farm">
+          <div class="rectangle-parent3">
+            <div class="frame-child10"></div>
+            <div class="frame-wrapper3">
+              <div class="rectangle-parent4">
+                <div class="frame-child11"></div>
+                <img
+                  class="diversity-label-icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/rectangle-255@2x.png"
+                />
+              </div>
+            </div>
+            <div class="diversity-wrapper">
+              <b class="diversity">DIVERSITY</b>
+            </div>
+            <div class="access-a-wide">
+              Access a wide range of farms across diverse regions and crop types
+              for strategic investment opportunities.
+            </div>
+          </div>
+          <div class="support-team">
+            <div class="vector-parent1">
+              <img
+                class="frame-child12"
+                alt=""
+                src="./public/rectangle-255.svg"
+              />
+
+              <div class="frame-wrapper4">
+                <div class="rectangle-parent5">
+                  <div class="frame-child13"></div>
+                  <img
+                    class="frame-child14"
+                    loading="lazy"
+                    alt=""
+                    src="./public/rectangle-256@2x.png"
+                  />
+                </div>
+              </div>
+              <div class="frame-parent2">
+                <div class="support-wrapper">
+                  <b class="support">SUPPORT</b>
+                </div>
+                <div class="count-on-our">
+                  Count on our dedicated team for prompt and reliable assistance
+                  throughout your investment journey
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="welcome-farm-inner">
+            <img
+              class="frame-child15"
+              loading="lazy"
+              alt=""
+              src="./public/rectangle-246.svg"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="frame-section">
+        <div class="frame-parent3">
+          <div class="how-it-works-wrapper">
+            <b class="how-it-works">How It works</b>
+          </div>
+          <div class="unsplashl3w6giqirwa-parent">
+            <img
+              class="unsplashl3w6giqirwa-icon"
+              loading="lazy"
+              alt=""
+              src="./public/unsplashl3w6giqirwa@2x.png"
+            />
+
+            <div class="investment-opportunities">
+              <h3 class="explore-discover-diverse-container">
+                <p class="explore-discover-diverse-farm">
+                  <b class="explore">Explore:</b>
+                  <span> Discover diverse farm investment opportunities.</span>
+                </p>
+                <p class="research-access-detailed-inf">
+                  <b class="research">Research :</b>
+                  <span>
+                    Access detailed information about farms, returns, and
+                    risks.</span
+                  >
+                </p>
+                <p class="invest-choose-your-desired-f">
+                  <b class="invest">Invest :</b>
+                  <span> Choose your desired farm and invest securely.</span>
+                </p>
+                <p class="track-monitor-your-investmen">
+                  <b class="track"> Track : </b>
+                  <span>Monitor your investments and farm progress.</span>
+                </p>
+                <p class="manage-easily-manage-your-pr">
+                  <b class="manage">Manage :</b>
+                  <span> Easily manage your profile and make adjustments.</span>
+                </p>
+                <p class="join-us-today">
+                  Join us today and experience the seamless process of investing
+                  in farms.
+                </p>
+              </h3>
+              <div class="unsplash-image-wrapper">
+                <button class="unsplash-image">
+                  <div class="get-started1">Get Started</div>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="help-contact-us">
+        <div class="frame-parent4">
+          <div class="frame-wrapper5">
+            <div class="frame-parent5">
+              <div class="sitelogo-wrapper">
+                <div class="sitelogo">
+                  <div class="sitelogo-inner">
+                    <div class="line-div"></div>
+                  </div>
+                  <div class="sitelogo-child">
+                    <div class="frame-child16"></div>
+                  </div>
+                  <div class="sitelogo-inner1">
+                    <div class="frame-child17"></div>
+                  </div>
+                  <div class="sitelogo1">GreenPlot</div>
+                </div>
+              </div>
+              <div class="need-help-or">
+                Need help or have a question? Contact our friendly team. We're
+                here to assist you with any inquiries or support you may need.
+                Reach out to us today!
+              </div>
+            </div>
+          </div>
+          <div class="contact-us-parent">
+            <b class="contact-us1">Contact us</b>
+            <div class="phone-number">
+              <div class="div">
+                <p class="p">+2349123456789</p>
+                <p class="blank-line">&nbsp;</p>
+                <p class="blank-line1">&nbsp;</p>
+                <p class="greenplotgmailcom">Greenplot@gmail.com</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div class="footer-copyright">
+        <div class="line-parent">
+          <div class="frame-child18"></div>
+          <div class="phone-number-instance1">
+            <div class="copyright">
+              <div class="all-rights-reserved">© 2023 All Rights Reserved</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./ongoing-investment-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Spartan:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="ongoing-investment-page">
+      <div class="ongoing-investment-page-child"></div>
+      <b class="text"> </b>
+      <b class="text1">
+        <p class="blank-line">&nbsp;</p>
+      </b>
+      <b class="text2">
+        <p class="blank-line1">&nbsp;</p>
+      </b>
+      <header class="ongoing-investment-page-inner">
+        <div class="cultify-high-resolution-logo-c-parent">
+          <img
+            class="cultify-high-resolution-logo-c-icon"
+            loading="lazy"
+            alt=""
+            src="./public/cultifyhighresolutionlogocolorontransparentbackground-1-3@2x.png"
+          />
+
+          <div class="align-justify-wrapper">
+            <img
+              class="align-justify-icon"
+              loading="lazy"
+              alt=""
+              src="./public/alignjustify.svg"
+            />
+          </div>
+        </div>
+      </header>
+      <div class="frame-parent">
+        <div class="frame-group">
+          <div class="frame-container">
+            <main class="rectangle-parent">
+              <div class="frame-child"></div>
+              <section class="rectangle-group">
+                <div class="frame-item"></div>
+                <h1 class="ongoing-investments">Ongoing Investments</h1>
+                <div class="rectangle-container">
+                  <div class="frame-inner"></div>
+                  <h1 class="projects">Projects</h1>
+                  <h2 class="return-type">Return type</h2>
+                  <h2 class="roi">ROI</h2>
+                  <h2 class="start-date">Start date</h2>
+                  <h2 class="end-date">End date</h2>
+                  <h2 class="payback-date">Payback date</h2>
+                  <b class="the-yam-project">THE YAM PROJECT</b>
+                  <h2 class="project-name">Project Name</h2>
+                  <b class="money">Money</b>
+                  <b class="b">10%</b>
+                  <b class="b1">1-1-2023</b>
+                  <b class="b2">1-1-2023</b>
+                  <b class="b3">1-1-2023</b>
+                </div>
+              </section>
+            </main>
+            <img
+              class="line-icon"
+              loading="lazy"
+              alt=""
+              src="./public/line-16.svg"
+            />
+          </div>
+          <div class="side-bar-parent">
+            <div class="side-bar">
+              <div class="nav-links">
+                <div class="link">
+                  <img class="icon" alt="" src="./public/icon.svg" />
+
+                  <div class="dashboard">Dashboard</div>
+                </div>
+                <div class="link1">
+                  <img class="icon1" alt="" src="./public/icon-1.svg" />
+
+                  <div class="dashboard1">In Stock</div>
+                </div>
+                <div class="link2">
+                  <img class="icon2" alt="" src="./public/icon-2.svg" />
+
+                  <div class="dashboard2">Products</div>
+                </div>
+                <div class="link3">
+                  <img class="icon3" alt="" src="./public/icon-3.svg" />
+
+                  <div class="dashboard3">Sales</div>
+                </div>
+                <div class="link4">
+                  <img class="icon4" alt="" src="./public/icon-4.svg" />
+
+                  <div class="dashboard4">Orders</div>
+                </div>
+                <div class="link5">
+                  <img class="icon5" alt="" src="./public/icon-5.svg" />
+
+                  <div class="dashboard5">Users</div>
+                </div>
+              </div>
+              <div class="side-bar-child"></div>
+              <div class="side-bar-item"></div>
+              <div class="side-bar-inner"></div>
+              <div class="rectangle-div"></div>
+              <div class="side-bar-child1"></div>
+              <div class="side-bar-child2"></div>
+            </div>
+            <h2 class="dashboard6">Dashboard</h2>
+            <h2 class="farm-projects">Farm Projects</h2>
+            <h2 class="profile">Profile</h2>
+            <div class="investments-parent">
+              <h2 class="investments">Investments</h2>
+              <div class="frame-child1"></div>
+            </div>
+          </div>
+        </div>
+        <div class="frame-wrapper">
+          <div class="frame-div">
+            <div class="frame-parent1">
+              <div class="kthe-ginger-project-wrapper">
+                <div class="kthe-ginger-project-container">
+                  <span>K</span>
+                  <b class="the-ginger-project">THE GINGER PROJECT</b>
+                </div>
+              </div>
+              <div class="frame-wrapper1">
+                <div class="price-per-unit-parent">
+                  <div class="price-per-unit">PRICE PER UNIT - #5000</div>
+                  <div class="duration-wrapper">
+                    <div class="duration">DURATION - 6 months</div>
+                  </div>
+                  <div class="roi-10-wrapper">
+                    <div class="roi-10">ROI - 10%</div>
+                  </div>
+                  <div class="location-oyo-wrapper">
+                    <div class="location-oyo">LOCATION - Oyo</div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-wrapper2">
+                <div class="frame-parent2">
+                  <div class="start-date-1-2-2023-wrapper">
+                    <div class="start-date-">START DATE - 1-2-2023</div>
+                  </div>
+                  <div class="end-date-2-3-2013-wrapper">
+                    <div class="end-date-">END DATE - 2-3-2013</div>
+                  </div>
+                  <div class="view-descriptionk">
+                    <span>VIEW DESCRIPTION</span>
+                    <span class="k">K</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="frame-wrapper3">
+              <div class="kthe-ginger-project-parent">
+                <div class="kthe-ginger-project-container1">
+                  <span>K</span>
+                  <b class="the-ginger-project1">THE GINGER PROJECT</b>
+                </div>
+                <div class="duration-container">
+                  <div class="duration1">DURATION - 6 months</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
